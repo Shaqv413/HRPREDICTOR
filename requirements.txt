@@ -1,3 +1,5 @@
 streamlit
 pandas
-pybaseball
+requests
+beautifulsoup4
+lxml
